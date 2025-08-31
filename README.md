@@ -9,24 +9,23 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- About Me Section -->
-
-
+<h2 align="center"><b>About Me</b></h2>
 <div align="center" style="max-width:800px; line-height:1.6;">
-
-
 <p>💡 <b>Interests & Focus:</b><br>
 🤖 Multi-Agent AI Systems<br>
 📊 Time Series Forecasting & Deep Learning<br>
 💬 NLP & Retrieval-Augmented Generation (RAG)<br>
 🛠️ AI App Development & Deployment (FastAPI, LangChain, CrewAI)
 </p>
-
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<!-- Skills & Contact Two-Column Layout -->
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<!-- Technical Skills -->
 ### 💻 Technical Skills
 <div style="display:flex; justify-content:center; gap:50px; flex-wrap:wrap; margin:auto; text-align:center;">
 
@@ -61,25 +60,30 @@
 </div>
 
 </div>
+</td>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<td width="50%" valign="top" align="center">
 
-<!-- Connect With Me -->
 ### 🌐 Connect with Me
-<p align="center">
 <a href="https://www.linkedin.com/in/sampavi-jesuthas-a290122b2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<br><br>
 <a href="https://www.kaggle.com/sampavijesuthas" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
+<br><br>
 <a href="https://sampavi01.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge" alt="Portfolio"/>
 </a>
+<br><br>
 <a href="mailto:sampavijesuthas1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
+
+</td>
+</tr>
+</table>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -126,4 +130,5 @@ I build AI systems that might one day outsmart me 😅🤖
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
+
 
