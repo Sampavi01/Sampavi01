@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -35,7 +35,7 @@ University of Moratuwa, Sri Lanka 🎓
 </tr>
 </table>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -74,7 +74,7 @@ University of Moratuwa, Sri Lanka 🎓
 
 </div>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -94,18 +94,17 @@ University of Moratuwa, Sri Lanka 🎓
 </a>
 </p>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💡 Fun Fact
 I build AI systems that might one day outsmart me 😅🤖
 
----
+
 
 </div>
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -123,9 +122,11 @@ I build AI systems that might one day outsmart me 😅🤖
 </td>
 </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
----
+
+
 
 <!-- Footer -->
 <div align="center">
