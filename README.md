@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋, I'm Sampavi
 
-<!--
-**Sampavi01/Sampavi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Electrical Engineering Undergraduate | AI Developer ✨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:  
+  Building **multi-agent AI systems** (CrewAI, LangGraph, MCP) and **RAG-powered applications** with FastAPI & Streamlit.  
+
+- 🌱 I’m currently learning:  
+  Gemini API, Groq Llama, advanced deep learning architectures (CNN-LSTM, Transformers), and scalable AI app deployment.  
+
+- 👯 I’m looking to collaborate on:  
+  AI/ML research, intelligent automation, and real-world applications of **Generative AI & LLMs**.  
+
+- 🤔 I’m looking for help with:  
+  Exploring cutting-edge **multi-agent frameworks** and optimizing **time series forecasting models**.  
+
+- 💬 Ask me about:  
+  Generative AI, LLM Deployment, RAG Applications, Deep Learning (RNN, LSTM, GRU, CNN, Transformers), Python, TensorFlow, PyTorch, Scikit-learn.  
+
+- 📫 How to reach me:  
+  ✉️ sampavijesuthas1@gmail.com  
+  🌐 [Portfolio](https://sampavi01.github.io)  
+  💼 [LinkedIn](https://linkedin.com/in/sampavi-jesuthas)  
+  🖥️ [GitHub](https://github.com/sampavi01)  
+
+- 😄 Pronouns: She/Her  
+
+- ⚡ Fun fact:  
+  I think I am funny 😅 (but my AI agents might be funnier 🤖)  
+
