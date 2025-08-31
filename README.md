@@ -103,13 +103,27 @@ I build AI systems that might one day outsmart me 😅🤖
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-### 📊 GitHub Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sampavi01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampavi01&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+
+
+<!-- GitHub Stats -->
+<div align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;<b>GitHub Stats</b>
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sampavi01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampavi01&theme=tokyonight"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampavi01&layout=compact&langs_count=8&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+
 
 ---
 
