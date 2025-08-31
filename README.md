@@ -37,35 +37,41 @@ GPA: 3.44
 ---
 
 ### 💻 Technical Skills
-<table>
-<tr>
-<td align="center" width="33%">
+<div style="display:flex; justify-content:center; gap:50px; flex-wrap:wrap; text-align:center;">
 
-**Programming & Data Science**  
-<img src="https://skillicons.dev/icons?i=python" height="40"/> 
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/> 
-<img src="https://skillicons.dev/icons?i=matlab" height="40"/> 
-<img src="https://skillicons.dev/icons?i=java" height="40"/>  
+  <!-- Programming & Data Science -->
+  <div>
+    <b>Programming & Data Science</b><br><br>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <img src="https://skillicons.dev/icons?i=python" height="40"/>
+      <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+      <img src="https://skillicons.dev/icons?i=matlab" height="40"/>
+      <img src="https://skillicons.dev/icons?i=java" height="40"/>
+    </div>
+  </div>
 
-</td>
-<td align="center" width="33%">
+  <!-- AI & ML Tools -->
+  <div>
+    <b>AI & ML Tools</b><br><br>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+      <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+      <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
+      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>
+    </div>
+  </div>
 
-**AI & ML Tools**  
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> 
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/> 
-<img src="https://skillicons.dev/icons?i=opencv" height="40"/> 
-<img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>  
+  <!-- AI App Development -->
+  <div>
+    <b>AI App Development</b><br><br>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+      <img src="https://skillicons.dev/icons?i=git" height="50"/>
+    </div>
+  </div>
 
-</td>
-<td align="center" width="33%">
-<b>AI App Development</b><br><br>
-<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; margin:auto;">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-    <img src="https://skillicons.dev/icons?i=git" height="50"/>
 </div>
-</td>
-</tr>
-</table>
+
 
 ---
 
