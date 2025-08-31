@@ -37,40 +37,40 @@ GPA: 3.44
 ---
 
 ### 💻 Technical Skills
-<div style="display:flex; justify-content:center; gap:50px; flex-wrap:wrap; text-align:center;">
+<div style="display:flex; justify-content:center; gap:50px; flex-wrap:wrap; margin:auto; text-align:center;">
 
-  <!-- Programming & Data Science -->
-  <div>
-    <b>Programming & Data Science</b><br><br>
-    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-      <img src="https://skillicons.dev/icons?i=python" height="40"/>
-      <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-      <img src="https://skillicons.dev/icons?i=matlab" height="40"/>
-      <img src="https://skillicons.dev/icons?i=java" height="40"/>
-    </div>
-  </div>
+<div>
+<b>Programming & Data Science</b><br><br>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=matlab" height="50"/>
+<img src="https://skillicons.dev/icons?i=anaconda" height="50"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="50"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="50"/>
+</div>
 
-  <!-- AI & ML Tools -->
-  <div>
-    <b>AI & ML Tools</b><br><br>
-    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-      <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
-      <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
-      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>
-    </div>
-  </div>
+<div>
+<b>AI & Machine Learning</b><br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="50"/>
+<img src="https://skillicons.dev/icons?i=scikitlearn" height="50"/>
+<img src="https://skillicons.dev/icons?i=spacy" height="50"/>
+<img src="https://skillicons.dev/icons?i=huggingface" height="50"/>
+</div>
 
-  <!-- AI App Development -->
-  <div>
-    <b>AI App Development</b><br><br>
-    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-      <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-      <img src="https://skillicons.dev/icons?i=git" height="50"/>
-    </div>
-  </div>
+<div>
+<b>AI App Development & Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+<img src="https://skillicons.dev/icons?i=jupyter" height="50"/>
+</div>
 
 </div>
+
 
 
 ---
