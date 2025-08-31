@@ -1,33 +1,102 @@
-<h1 align="center">Hi 👋, I'm Sampavi</h1>
-<h3 align="center">A passionate AI Developer & Electrical Engineering Undergraduate</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sampavi01&label=Profile%20views&color=0e75b6&style=flat" alt="sampavi01" /> </p>
+<!-- Animated Header -->
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi,+I'm+Sampavi+Jesuthas&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI+Developer+%26+Electrical+Engineering+Undergrad&descAlignY=55&descSize=18"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampavi01" alt="sampavi01" /></a> </p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Building+Multi-Agent+AI+Systems;Exploring+Generative+AI+%26+RAG;Deploying+Scalable+AI+Applications" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **Building multi-agent AI systems (CrewAI, LangGraph, MCP) and RAG-powered applications with FastAPI & Streamlit.**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://sampavi01.github.io/](https://sampavi01.github.io/)
+---
 
-- 📫 How to reach me [sampavijesuthas1@gmail.com](sampavijesuthas1@gmail.com)
+### 🎯 About Me
+<table>
+<tr>
+<td width="50%" align="center">
 
-- 🌱 I’m currently learning **Advanced deep learning architectures (CNN-LSTM, RNN, LSTM, GRU), and scalable AI app deployment.**
+**Electrical Engineering Undergraduate**  
+University of Moratuwa, Sri Lanka 🎓  
+GPA: 3.44  
 
-- 👯 I’m looking to collaborate on **AI/ML research, intelligent automation, and real-world applications of Generative AI & LLMs.**
+**Mission:** *Advancing cutting-edge AI, multi-agent systems, and real-world applications of machine learning. Passionate about building modular, scalable, and intelligent solutions.*
 
-- 📄 Know about my experiences [file:///C:/Users/Jesut/Downloads/Revised_CV%20(6).pdf](file:///C:/Users/Jesut/Downloads/Revised_CV%20(6).pdf)
+</td>
+<td width="50%" align="center">
 
-- ⚡ Fun fact **I think I am funny 😅 (but my AI agents might be funnier 🤖)**
+**Interests & Focus:**  
+🤖 Multi-Agent AI Systems  
+📊 Time Series Forecasting & Deep Learning  
+💬 NLP & Retrieval-Augmented Generation (RAG)  
+🛠️ AI App Development & Deployment (FastAPI, Streamlit, LangChain, CrewAI)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/sampavi jesuthas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sampavi jesuthas" height="30" width="40" /></a>
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 Technical Skills
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Programming & Data Science**  
+<img src="https://skillicons.dev/icons?i=python" height="40"/> 
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/> 
+<img src="https://skillicons.dev/icons?i=matlab" height="40"/> 
+<img src="https://skillicons.dev/icons?i=java" height="40"/>  
+
+</td>
+<td align="center" width="33%">
+
+**AI & ML Tools**  
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> 
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/> 
+<img src="https://skillicons.dev/icons?i=opencv" height="40"/> 
+<img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>  
+
+</td>
+<td align="center" width="33%">
+
+**AI App Development**  
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> 
+<img src="https://skillicons.dev/icons?i=streamlit" height="40"/> 
+<img src="https://skillicons.dev/icons?i=gradio" height="40"/>  
+<img src="https://skillicons.dev/icons?i=git" height="40"/>  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/sampavi-jesuthas-a290122b2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.kaggle.com/sampavijesuthas" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://sampavi01.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="mailto:sampavijesuthas1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampavi01&show_icons=true&locale=en&layout=compact" alt="sampavi01" /></p>
+### 💡 Fun Fact
+I build AI systems that might one day outsmart me 😅🤖
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampavi01&show_icons=true&locale=en" alt="sampavi01" /></p>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sampavi01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampavi01&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
