@@ -9,17 +9,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- About Me Section -->
-<h2 align="center"><b>About Me</b></h2>
+
 
 <div align="center" style="max-width:800px; line-height:1.6;">
 
-<p>🎓 <b>Education:</b><br>
-Electrical Engineering Undergraduate, University of Moratuwa, Sri Lanka
-</p>
-
-<p>🚀 <b>Mission:</b><br>
-Advancing cutting-edge AI, multi-agent systems, and real-world applications of machine learning. Passionate about building modular, scalable, and intelligent solutions.
-</p>
 
 <p>💡 <b>Interests & Focus:</b><br>
 🤖 Multi-Agent AI Systems<br>
