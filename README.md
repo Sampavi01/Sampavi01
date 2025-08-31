@@ -1,18 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi,+I'm+Sampavi+Jesuthas&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI+Developer+%26+Electrical+Engineering+Undergrad&descAlignY=55&descSize=18"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Building+Multi-Agent+AI+Systems;Exploring+Generative+AI+%26+RAG;Deploying+Scalable+AI+Applications" alt="Typing SVG" />
+<!-- Neon Line + Name Header -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h1 align="center"><b>Hi there, I'm </b><a href="https://github.com/sampavi01">Sampavi Jesuthas</a> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 </div>
 
+<!-- About Me Section -->
+<h2 align="center"><b>About Me</b></h2>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🎯 About Me
 <table>
 <tr>
 <td width="50%" align="center">
@@ -35,10 +33,9 @@ University of Moratuwa, Sri Lanka 🎓
 </tr>
 </table>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- Technical Skills -->
 ### 💻 Technical Skills
 <div style="display:flex; justify-content:center; gap:50px; flex-wrap:wrap; margin:auto; text-align:center;">
 
@@ -74,10 +71,9 @@ University of Moratuwa, Sri Lanka 🎓
 
 </div>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- Connect With Me -->
 ### 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/sampavi-jesuthas-a290122b2" target="_blank">
@@ -94,17 +90,13 @@ University of Moratuwa, Sri Lanka 🎓
 </a>
 </p>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- Fun Fact -->
 ### 💡 Fun Fact
 I build AI systems that might one day outsmart me 😅🤖
 
-
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -122,18 +114,14 @@ I build AI systems that might one day outsmart me 😅🤖
 </td>
 </tr>
 </table>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Footer -->
 <div align="center">
 
-  <!-- Moving "Thanks for visiting me" -->
-  <img height="120" width="100%" alt="Thanks for visiting me" src="https://c.tenor.com/MjNQp1Vn-hcAAAAC/thank-you-thanks.gif" />
-  <br>
+<img height="120" width="100%" alt="Thanks for visiting me" src="https://c.tenor.com/MjNQp1Vn-hcAAAAC/thank-you-thanks.gif" />
+<br>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
@@ -147,3 +135,4 @@ I build AI systems that might one day outsmart me 😅🤖
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
+
