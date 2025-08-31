@@ -16,8 +16,7 @@
 <td width="50%" align="center">
 
 **Electrical Engineering Undergraduate**  
-University of Moratuwa, Sri Lanka 🎓  
-GPA: 3.44  
+University of Moratuwa, Sri Lanka 🎓   
 
 **Mission:** *Advancing cutting-edge AI, multi-agent systems, and real-world applications of machine learning. Passionate about building modular, scalable, and intelligent solutions.*
 
@@ -28,7 +27,7 @@ GPA: 3.44
 🤖 Multi-Agent AI Systems  
 📊 Time Series Forecasting & Deep Learning  
 💬 NLP & Retrieval-Augmented Generation (RAG)  
-🛠️ AI App Development & Deployment (FastAPI, Streamlit, LangChain, CrewAI)
+🛠️ AI App Development & Deployment (FastAPI, LangChain, CrewAI)
 
 </td>
 </tr>
@@ -71,8 +70,6 @@ GPA: 3.44
 
 </div>
 
-
-
 ---
 
 ### 🌐 Connect with Me
@@ -104,3 +101,30 @@ I build AI systems that might one day outsmart me 😅🤖
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampavi01&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+---
+
+<!-- Footer -->
+<div align="center">
+
+  <!-- Moving "Thanks for visiting me" -->
+  <img height="120" width="100%" alt="Thanks for visiting me" src="https://c.tenor.com/MjNQp1Vn-hcAAAAC/thank-you-thanks.gif" />
+  <br>
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
