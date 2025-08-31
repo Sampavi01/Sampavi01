@@ -10,6 +10,8 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🎯 About Me
 <table>
 <tr>
@@ -34,6 +36,8 @@ University of Moratuwa, Sri Lanka 🎓
 </table>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💻 Technical Skills
 <div style="display:flex; justify-content:center; gap:50px; flex-wrap:wrap; margin:auto; text-align:center;">
@@ -72,6 +76,8 @@ University of Moratuwa, Sri Lanka 🎓
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/sampavi-jesuthas-a290122b2" target="_blank">
@@ -90,10 +96,14 @@ University of Moratuwa, Sri Lanka 🎓
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 💡 Fun Fact
 I build AI systems that might one day outsmart me 😅🤖
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -110,18 +120,12 @@ I build AI systems that might one day outsmart me 😅🤖
   <img height="120" width="100%" alt="Thanks for visiting me" src="https://c.tenor.com/MjNQp1Vn-hcAAAAC/thank-you-thanks.gif" />
   <br>
 
-<!-- Footer -->
-
-<div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
-
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
