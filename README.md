@@ -58,13 +58,11 @@ GPA: 3.44
 
 </td>
 <td align="center" width="33%">
-
-**AI App Development**  
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> 
-<img src="https://skillicons.dev/icons?i=streamlit" height="40"/> 
-<img src="https://skillicons.dev/icons?i=gradio" height="40"/>  
-<img src="https://skillicons.dev/icons?i=git" height="40"/>  
-
+<b>AI App Development</b><br><br>
+<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; margin:auto;">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+    <img src="https://skillicons.dev/icons?i=git" height="50"/>
+</div>
 </td>
 </tr>
 </table>
