@@ -1,39 +1,37 @@
-<div align="center">
-
 <!-- Neon Line + Name Header -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1 align="center"><b>Hi there, I'm </b><a href="https://github.com/sampavi01">Sampavi Jesuthas</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-</div>
+<!-- Optional Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Developer" alt="Typing SVG" align="center"/>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- About Me Section -->
 <h2 align="center"><b>About Me</b></h2>
 
+<div align="center" style="max-width:800px; line-height:1.6;">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p>🎓 <b>Education:</b><br>
+Electrical Engineering Undergraduate, University of Moratuwa, Sri Lanka
+</p>
 
-**Electrical Engineering Undergraduate**  
-University of Moratuwa, Sri Lanka 🎓   
+<p>🚀 <b>Mission:</b><br>
+Advancing cutting-edge AI, multi-agent systems, and real-world applications of machine learning. Passionate about building modular, scalable, and intelligent solutions.
+</p>
 
-**Mission:** *Advancing cutting-edge AI, multi-agent systems, and real-world applications of machine learning. Passionate about building modular, scalable, and intelligent solutions.*
-
-</td>
-<td width="50%" align="center">
-
-**Interests & Focus:**  
-🤖 Multi-Agent AI Systems  
-📊 Time Series Forecasting & Deep Learning  
-💬 NLP & Retrieval-Augmented Generation (RAG)  
+<p>💡 <b>Interests & Focus:</b><br>
+🤖 Multi-Agent AI Systems<br>
+📊 Time Series Forecasting & Deep Learning<br>
+💬 NLP & Retrieval-Augmented Generation (RAG)<br>
 🛠️ AI App Development & Deployment (FastAPI, LangChain, CrewAI)
+</p>
 
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <!-- Technical Skills -->
 ### 💻 Technical Skills
