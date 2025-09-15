@@ -93,25 +93,6 @@ I build AI systems that might one day outsmart me 😅🤖
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- GitHub Stats -->
-<div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;<b>GitHub Stats</b>
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sampavi01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampavi01&theme=tokyonight"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampavi01&layout=compact&langs_count=8&theme=tokyonight"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <!-- Footer -->
 <div align="center">
 
